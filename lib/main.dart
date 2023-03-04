@@ -29,7 +29,6 @@ class MyApp extends StatelessWidget {
       primaryColor: AppColors.primaryColor
       ),
       home: MainTabBar(),
-      // initialBinding: AppBinding(),
     );
 
     return getXApp;
