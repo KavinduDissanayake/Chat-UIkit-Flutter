@@ -27,6 +27,7 @@ flutter pub run
 https://www.figma.com/file/THrqu45td3VP31SgV1CZUf/chat?node-id=0%3A1&t=SlYNhggb0DTRn8UV-1
 
 #### Demo image
+<img align="center" src="https://github.com/KavinduDissanayake/Chat-UIkit-Flutter/blob/main/ss/807.png"> 
 
 ## License
 
